@@ -64,7 +64,7 @@ export const project = [
         title:'Workout Buddy',
         description:'Workout Buddy is a MERN stack application designed for fitness enthusiasts to create and manage personalized workout routines. This dynamic web application utilizes MongoDB, Express, React, and Node.js to facilitate seamless CRUD operations for adding, editing, and deleting workouts. Users can tailor their exercise plans to meet their fitness goals, making it an ideal platform for organizing and tracking fitness progress.',
         image: {vpn},
-        git:'https://github.com/nithingooud/CoPeople',
+        git:'https://github.com/Adithya-1508/MERN-Stack-Workout-Website',
         technologies:['MongoDb' ,'ReactJS' , 'NodeJS']
     },
     {
